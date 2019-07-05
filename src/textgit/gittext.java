@@ -6,6 +6,7 @@ public class gittext {
 		// TODO Auto-generated method stub
 
 		System.out.println("i am wyt");
+		System.out.println("i am hxm");
 	}
 
 }
